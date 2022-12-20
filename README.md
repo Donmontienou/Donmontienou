@@ -4,5 +4,5 @@
 
 J'aime la programmation.
 
-![Tux, the Linux mascot](assets/images/tux.png)
+!(IMG_20220117_161202_843.jpg)
 
