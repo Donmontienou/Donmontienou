@@ -1,8 +1,6 @@
 ## Salut je suis Merveille DA
 
-<font color="green">
-    ### DI-BootCamp-Formation
-<font>
+### DI-BootCamp-Formation
 
 Je suis etudiante en Licence 3 informatique
 
