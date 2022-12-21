@@ -4,3 +4,4 @@
 
 Je suis etudiante en Licence 3 informatique
 La programmation est ma passion.
+![Tux,la mascote Linux](/assets/images/tux.png)
