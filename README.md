@@ -2,4 +2,5 @@
 
 ### DI-BootCamp-Formation
 
-J'aime la programmation.
+Je suis apprénante en Licence 3 informatique
+La programmation est ma passion.
