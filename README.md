@@ -4,4 +4,4 @@
 
 Je suis etudiante en Licence 3 informatique
 La programmation est ma passion.
-![Tux,la mascote Linux](/assets/images/tux.png)
+"C:\Users\USER\Desktop\DI-Bootcamp-Stage1\HTML-Basics\Linux.jpg"
