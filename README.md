@@ -2,5 +2,5 @@
 
 ### DI-BootCamp-Formation
 
-Je suis apprénante en Licence 3 informatique
+Je suis etudiante en Licence 3 informatique
 La programmation est ma passion.
